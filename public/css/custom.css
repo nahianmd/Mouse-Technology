@@ -1,0 +1,31 @@
+/* Colors */
+:root{
+  /* Colors */
+  /* Utilities */
+  --white-pure:        #ffffff;
+  --white:             #F4F7F6;
+  --white-pearl:       #f2f2f2;
+  --grey-ultra-light:  #888888;
+  --grey-light:        #6A6E71;
+  --grey:              #555555;
+  --grey-deep:         #474A4F;
+  --black:             #222629;
+  --blackest:          #000000;
+  --yellow-green:      #00B22D;
+  --yellow-green-dark: #199939;
+  --highlight-green:   #0ABF9E;
+  --congo-pink:        #FF847C;
+  --scarlet:           #F92672;
+
+  /* Padding */
+  --input-padding-x: .75rem;
+  --input-padding-y: .75rem;
+}
+
+body{
+    background:white !important;
+}
+
+.btn-primary{
+  color: white !important;
+}
